@@ -1,3 +1,5 @@
+# Nama : Muhammad Daffa Nur Maulidan
+
 suhu = float(input("Masukan suhu Celcius? : "))
 
 fahrenheit = suhu * 9 / 5 + 32
